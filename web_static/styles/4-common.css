@@ -1,7 +1,8 @@
 body {
+	display:grid;
+	grid-template-rows:auto 1fr auto;
 	margin:0;
 	padding:0;
-	position:relative;
 	min-height:100vh;	
 	color:#484848;
 	font-size:14px;
